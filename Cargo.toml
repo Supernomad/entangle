@@ -1,0 +1,8 @@
+[package]
+name = "entangle"
+version = "0.0.1"
+authors = [ "Christian Saide <csaide@quantumnet.ninja>" ]
+
+[dependencies]
+docopt = "0.7"
+rustc-serialize = "0.3"
